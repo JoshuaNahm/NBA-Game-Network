@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project was conducted as part of the DS310 course to analyze the **betweenness centrality** of NBA teams based on historical game outcomes.
+This project was conducted to analyze the **betweenness centrality** of NBA teams based on historical game outcomes.
 
 Using data from the 2004 season to the latest available updates, we aimed to uncover which teams play pivotal roles in the connectivity of the NBA game network.
 
