@@ -1,4 +1,4 @@
-# DS310 Project: NBA Game Outcomes Analysis
+# DS210 Project: NBA Game Outcomes Analysis
 
 ## 📋 Project Overview
 
